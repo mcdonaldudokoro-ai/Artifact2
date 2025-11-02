@@ -1,4 +1,4 @@
-# Artifact 2  
+# Artifact 1
 # Title  
 AI and Machine Learning Timeline – A Visual Presentation of Key Milestones in the History of AI
 
